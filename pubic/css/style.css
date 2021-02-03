@@ -1,0 +1,30 @@
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+ 
+  h1{
+      align-content: right;
+  }
+  @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }
+
+  .proFilePic {
+      padding: 5%;
+      border-radius: 50%;
+    }
+
+    .aboutMePara{
+      padding: 15%;
+    }
+    
+    btn-group{
+      margin-left: 50px;
+    }
